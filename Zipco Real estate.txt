@@ -1,0 +1,37 @@
+This project is designed to process and store real estate data using an ETL (Extract, Transform, Load) pipeline built with Python and PostgreSQL. The project follows a Snowflake Schema for efficient querying and reporting.
+
+The pipeline consists of three main steps:
+
+1. Extract (extract.py)
+
+Reads real estate data from a JSON file.
+Uses Python’s .json module to parse data.
+Logs errors if extraction fails.
+
+2. Transform (transform.py)
+
+Cleans and preprocesses data.
+Converts lastSaleDate from string to datetime format.
+Skips records with missing critical fields (e.g., county, propertyType).
+Logs transformation errors
+
+3. Load (load.py)
+Inserts transformed data into a PostgreSQL database (real_estate).
+Uses Snowflake Schema with fact and dimension tables:
+
+fact_properties → Stores main property details.
+dim_property_sales → Stores sales data.
+dim_owners → Stores owner details.
+dim_addresses → Stores property addresses.
+dim_features → Stores property features as JSON.
+
+Database Schema (Snowflake Schema)
+
+Table Name	      Description
+fact_properties	      Main fact table storing property details
+dim_property_sales    Stores sales prices and dates
+dim_owners	      Stores owner names and addresses
+dim_addresses	      Stores address details
+dim_features	      Stores property features in JSON format
+
+Implemented scheduling using windows scheduler

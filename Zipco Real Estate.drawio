@@ -1,0 +1,37 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.9 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.9">
+  <diagram name="Page-1" id="amFs98dEEWwN8r-DtaA6">
+    <mxGraphModel dx="780" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="t0FEXOJ6Q95lNdKd-eHH-1" value="Fact Properties&#xa;id (PK)&#xa;county&#xa;propertyType&#xa;bedrooms&#xa;bathrooms&#xa;squareFootage&#xa;lotSize&#xa;formattedAddress&#xa;lastSaleDate" style="rounded=1;whiteSpace=wrap;fillColor=#AED6F1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="150" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="t0FEXOJ6Q95lNdKd-eHH-2" value="Dim Property Sales&#xa;id (PK)&#xa;salePrice&#xa;saleDate" style="rounded=1;whiteSpace=wrap;fillColor=#D5F5E3;" vertex="1" parent="1">
+          <mxGeometry x="100" y="50" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t0FEXOJ6Q95lNdKd-eHH-3" value="Dim Owners&#xa;id (PK)&#xa;ownerName&#xa;ownerAddress" style="rounded=1;whiteSpace=wrap;fillColor=#D5F5E3;" vertex="1" parent="1">
+          <mxGeometry x="500" y="50" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t0FEXOJ6Q95lNdKd-eHH-4" value="Dim Addresses&#xa;id (PK)&#xa;addressLine1&#xa;city&#xa;state&#xa;zipCode" style="rounded=1;whiteSpace=wrap;fillColor=#D5F5E3;" vertex="1" parent="1">
+          <mxGeometry x="100" y="300" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="t0FEXOJ6Q95lNdKd-eHH-5" value="Dim Features&#xa;features_id (PK)&#xa;features&#xa;propertyType&#xa;zoning" style="rounded=1;whiteSpace=wrap;fillColor=#D5F5E3;" vertex="1" parent="1">
+          <mxGeometry x="500" y="300" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="t0FEXOJ6Q95lNdKd-eHH-6" edge="1" parent="1" source="t0FEXOJ6Q95lNdKd-eHH-1" target="t0FEXOJ6Q95lNdKd-eHH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t0FEXOJ6Q95lNdKd-eHH-7" edge="1" parent="1" source="t0FEXOJ6Q95lNdKd-eHH-1" target="t0FEXOJ6Q95lNdKd-eHH-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t0FEXOJ6Q95lNdKd-eHH-8" edge="1" parent="1" source="t0FEXOJ6Q95lNdKd-eHH-1" target="t0FEXOJ6Q95lNdKd-eHH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t0FEXOJ6Q95lNdKd-eHH-9" edge="1" parent="1" source="t0FEXOJ6Q95lNdKd-eHH-1" target="t0FEXOJ6Q95lNdKd-eHH-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

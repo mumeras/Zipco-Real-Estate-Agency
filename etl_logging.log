@@ -1,0 +1,527 @@
+2025-02-18 17:18:08,700 - INFO - \U0001f504 ETL Process Started
+2025-02-18 17:18:19,435 - INFO - \U0001f504 ETL Process Started
+2025-02-18 17:20:27,507 - INFO - \U0001f504 ETL Process Started
+2025-02-18 17:21:51,283 - INFO - \U0001f504 ETL Process Started
+2025-02-18 17:24:17,110 - INFO - \U0001f504 ETL Process Started
+2025-02-18 17:24:17,131 - INFO - \U0001f680 Starting ETL Pipeline
+2025-02-18 17:24:17,137 - INFO - \u2705 Extraction Successful - 500 rows extracted.
+2025-02-18 17:24:17,138 - INFO - \u2705 Transformation Successful - 500 records transformed.
+2025-02-18 17:24:17,177 - ERROR - \u274c Load Failed - column "county" of relation "dim_properties" does not exist
+LINE 3: ...addressLine1, addressLine2, city, state, zipCode, county, fo...
+                                                             ^
+
+2025-02-18 17:24:17,178 - INFO - \u2705 ETL Pipeline Completed Successfully!
+2025-02-18 17:31:12,156 - INFO - \U0001f504 ETL Process Started
+2025-02-18 17:31:12,174 - INFO - \U0001f680 Starting ETL Pipeline
+2025-02-18 17:31:12,178 - INFO - \u2705 Extraction Successful - 500 rows extracted.
+2025-02-18 17:31:12,179 - INFO - \u2705 Transformation Successful - 500 records transformed.
+2025-02-18 17:31:12,306 - INFO - \u2705 Load Successful - 500 records loaded into PostgreSQL.
+2025-02-18 17:31:12,306 - INFO - \u2705 ETL Pipeline Completed Successfully!
+2025-02-18 17:36:52,044 - INFO - \U0001f504 ETL Process Started
+2025-02-18 17:36:52,049 - INFO - \u2705 Extraction Successful - 500 rows extracted.
+2025-02-18 17:39:54,723 - INFO - \U0001f504 ETL Process Started
+2025-02-18 17:39:54,745 - INFO - \U0001f680 Starting ETL Pipeline
+2025-02-18 17:39:54,750 - INFO - \u2705 Extraction Successful - 500 rows extracted.
+2025-02-18 17:39:54,752 - INFO - \u2705 Transformation Successful - 500 records transformed.
+2025-02-18 17:39:54,794 - INFO - \u2705 Loaded property: 46 Patton Dr
+2025-02-18 17:39:54,796 - INFO - \u2705 Loaded property: 13500 County Rd
+2025-02-18 17:39:54,798 - INFO - \u2705 Loaded property: 7336 Leghorn St
+2025-02-18 17:39:54,798 - INFO - \u2705 Loaded property: 2426 S Diamond Bar Blvd
+2025-02-18 17:39:54,800 - INFO - \u2705 Loaded property: 902 N William Tell Cir
+2025-02-18 17:39:54,800 - INFO - \u2705 Loaded property: 10130 Rose Brook Ln
+2025-02-18 17:39:54,801 - INFO - \u2705 Loaded property: 21 Eureka St
+2025-02-18 17:39:54,802 - INFO - \u2705 Loaded property: 2820 King St
+2025-02-18 17:39:54,803 - INFO - \u2705 Loaded property: 12718 Westwood Lakes Blvd
+2025-02-18 17:39:54,805 - INFO - \u2705 Loaded property: 1427 E Nebraska Ave
+2025-02-18 17:39:54,806 - INFO - \u2705 Loaded property: 12407 Wycliff Ln
+2025-02-18 17:39:54,807 - INFO - \u2705 Loaded property: 1223 Hillcliff St
+2025-02-18 17:39:54,808 - INFO - \u2705 Loaded property: 15606 Elmcroft Ave
+2025-02-18 17:39:54,809 - INFO - \u2705 Loaded property: 2690 Coral Landings Blvd
+2025-02-18 17:39:54,810 - INFO - \u2705 Loaded property: 2810 Thomas St
+2025-02-18 17:39:54,811 - INFO - \u2705 Loaded property: 155 S Court Ave
+2025-02-18 17:39:54,812 - INFO - \u2705 Loaded property: 337 W Garwood Cir
+2025-02-18 17:39:54,813 - INFO - \u2705 Loaded property: 1700 Beau Dr
+2025-02-18 17:39:54,814 - INFO - \u2705 Loaded property: 906 Neff Rd
+2025-02-18 17:39:54,816 - INFO - \u2705 Loaded property: 1134 Kenwyn St
+2025-02-18 17:39:54,817 - INFO - \u2705 Loaded property: 8044 E Naples Ln
+2025-02-18 17:39:54,818 - INFO - \u2705 Loaded property: 2478 Talco Hills Dr
+2025-02-18 17:39:54,819 - INFO - \u2705 Loaded property: 10403 Silverbrook Dr
+2025-02-18 17:39:54,820 - INFO - \u2705 Loaded property: 5111 Arborwood Dr
+2025-02-18 17:39:54,821 - INFO - \u2705 Loaded property: 1183 Hopkins Ter NE
+2025-02-18 17:39:54,822 - INFO - \u2705 Loaded property: 23342 Los Encinos Way
+2025-02-18 17:39:54,823 - INFO - \u2705 Loaded property: 550 E 12th St
+2025-02-18 17:39:54,824 - INFO - \u2705 Loaded property: 215 Eagle Claw Dr
+2025-02-18 17:39:54,825 - INFO - \u2705 Loaded property: 31620 Sun Valley Rd
+2025-02-18 17:39:54,826 - INFO - \u2705 Loaded property: 2552 Sw Marshfield Ct
+2025-02-18 17:39:54,826 - INFO - \u2705 Loaded property: 411 W Fullerton Pkwy
+2025-02-18 17:39:54,826 - INFO - \u2705 Loaded property: 5419 W Adams Blvd
+2025-02-18 17:39:54,827 - INFO - \u2705 Loaded property: 3364 Solarino Ln
+2025-02-18 17:39:54,828 - INFO - \u2705 Loaded property: 1841 Overbrook Dr
+2025-02-18 17:39:54,829 - INFO - \u2705 Loaded property: 396 Circuit Ln
+2025-02-18 17:39:54,830 - INFO - \u2705 Loaded property: 5501 Nw 2nd Ave
+2025-02-18 17:39:54,831 - INFO - \u2705 Loaded property: 117 E 5th St
+2025-02-18 17:39:54,832 - INFO - \u2705 Loaded property: 1435 India St
+2025-02-18 17:39:54,833 - INFO - \u2705 Loaded property: 901 N Central Ave
+2025-02-18 17:39:54,833 - INFO - \u2705 Loaded property: 1519 Arlington Heights Way
+2025-02-18 17:39:54,834 - INFO - \u2705 Loaded property: 1343 Valley Rd
+2025-02-18 17:39:54,834 - INFO - \u2705 Loaded property: 14 Oak Ridge Rd
+2025-02-18 17:39:54,835 - INFO - \u2705 Loaded property: 39801 Nantucket Rd
+2025-02-18 17:39:54,836 - INFO - \u2705 Loaded property: 4020 Bessemer Ave SW
+2025-02-18 17:39:54,836 - INFO - \u2705 Loaded property: 14 Belmont Ave
+2025-02-18 17:39:54,837 - INFO - \u2705 Loaded property: 1914 Bellamy Dr
+2025-02-18 17:39:54,837 - INFO - \u2705 Loaded property: 9005 Burton Way
+2025-02-18 17:39:54,837 - INFO - \u2705 Loaded property: 120 Alcott Pl
+2025-02-18 17:39:54,838 - INFO - \u2705 Loaded property: 4929 W Decora Way
+2025-02-18 17:39:54,839 - INFO - \u2705 Loaded property: 13100 Pembroke Ln
+2025-02-18 17:39:54,840 - INFO - \u2705 Loaded property: 1000 Aspen Ln
+2025-02-18 17:39:54,840 - INFO - \u2705 Loaded property: 535 W Briar Pl
+2025-02-18 17:39:54,840 - INFO - \u2705 Loaded property: 52 Chandler Gray Rd
+2025-02-18 17:39:54,841 - INFO - \u2705 Loaded property: 7415 Margarita Pl
+2025-02-18 17:39:54,842 - INFO - \u2705 Loaded property: 1305 Kelsey Ct
+2025-02-18 17:39:54,842 - INFO - \u2705 Loaded property: 12536 Ryerson Ave
+2025-02-18 17:39:54,843 - INFO - \u2705 Loaded property: 7045 Stonycreek Dr
+2025-02-18 17:39:54,843 - INFO - \u2705 Loaded property: 9202 Zyle Rd
+2025-02-18 17:39:54,844 - INFO - \u2705 Loaded property: 751 Pinellas Bayway S
+2025-02-18 17:39:54,844 - INFO - \u2705 Loaded property: 39768 Seal
+2025-02-18 17:39:54,845 - INFO - \u2705 Loaded property: 23106 E Maxwell Ave
+2025-02-18 17:39:54,846 - INFO - \u2705 Loaded property: 2129 Hovsons Blvd
+2025-02-18 17:39:54,847 - INFO - \u2705 Loaded property: 380 Bailey Ct
+2025-02-18 17:39:54,848 - INFO - \u2705 Loaded property: 68 Columbia Blvd
+2025-02-18 17:39:54,849 - INFO - \u2705 Loaded property: 224 Seford Dr
+2025-02-18 17:39:54,850 - INFO - \u2705 Loaded property: 730 W North St
+2025-02-18 17:39:54,851 - INFO - \u2705 Loaded property: 110 Skyridge Rd
+2025-02-18 17:39:54,851 - INFO - \u2705 Loaded property: 6214 Willet Ct
+2025-02-18 17:39:54,852 - INFO - \u2705 Loaded property: 5111 Cale Ct
+2025-02-18 17:39:54,853 - INFO - \u2705 Loaded property: 5730 Southern Pkwy
+2025-02-18 17:39:54,853 - INFO - \u2705 Loaded property: 12 Marie Ln
+2025-02-18 17:39:54,853 - INFO - \u2705 Loaded property: 2706 State Hwy
+2025-02-18 17:39:54,854 - INFO - \u2705 Loaded property: 218 N Main St
+2025-02-18 17:39:54,855 - INFO - \u2705 Loaded property: 2232 E Gaisor Dr
+2025-02-18 17:39:54,856 - INFO - \u2705 Loaded property: 2513 Jackalope St
+2025-02-18 17:39:54,856 - INFO - \u2705 Loaded property: 550 Mccrory Creek Rd
+2025-02-18 17:39:54,857 - INFO - \u2705 Loaded property: 146 Anthony St
+2025-02-18 17:39:54,857 - INFO - \u2705 Loaded property: PO Box 51
+2025-02-18 17:39:54,858 - INFO - \u2705 Loaded property: 940 Orchard Ave
+2025-02-18 17:39:54,859 - INFO - \u2705 Loaded property: 4481 N Dryden St
+2025-02-18 17:39:54,860 - INFO - \u2705 Loaded property: 1009 N Trekell Rd
+2025-02-18 17:39:54,862 - INFO - \u2705 Loaded property: 4863 Wilkie Way NW
+2025-02-18 17:39:54,863 - INFO - \u2705 Loaded property: 26 Lahey St
+2025-02-18 17:39:54,863 - INFO - \u2705 Loaded property: 1025 S Charles St
+2025-02-18 17:39:54,864 - INFO - \u2705 Loaded property: 536 W 85th Dr
+2025-02-18 17:39:54,865 - INFO - \u2705 Loaded property: 2973 N Ridgeway Ave
+2025-02-18 17:39:54,866 - INFO - \u2705 Loaded property: 116 E 7th St
+2025-02-18 17:39:54,866 - INFO - \u2705 Loaded property: 2730 Somerset Dr
+2025-02-18 17:39:54,867 - INFO - \u2705 Loaded property: 10992 Millersburg Rd SW
+2025-02-18 17:39:54,868 - INFO - \u2705 Loaded property: 626 Tolland Tpke
+2025-02-18 17:39:54,868 - INFO - \u2705 Loaded property: 6203 Apple Bluff Ct
+2025-02-18 17:39:54,869 - INFO - \u2705 Loaded property: 99 N Main St
+2025-02-18 17:39:54,869 - INFO - \u2705 Loaded property: 33958 Golden Lantern St
+2025-02-18 17:39:54,870 - INFO - \u2705 Loaded property: 2131 Fountain Hill Dr
+2025-02-18 17:39:54,871 - INFO - \u2705 Loaded property: 4523 Fenway Park Way
+2025-02-18 17:39:54,872 - INFO - \u2705 Loaded property: 28413 Connick Pl
+2025-02-18 17:39:54,872 - INFO - \u2705 Loaded property: 504 Fresh Meadows Rd
+2025-02-18 17:39:54,873 - INFO - \u2705 Loaded property: 25443 E 92nd Ter S
+2025-02-18 17:39:54,874 - INFO - \u2705 Loaded property: 1917 W Front St
+2025-02-18 17:39:54,875 - INFO - \u2705 Loaded property: 2214 Tamrack St
+2025-02-18 17:39:54,875 - INFO - \u2705 Loaded property: 2795 Evans Mill Rd
+2025-02-18 17:39:54,875 - INFO - \u2705 Loaded property: 1321 Oakpoint Ave
+2025-02-18 17:39:54,876 - INFO - \u2705 Loaded property: 2472 Douglas Rd
+2025-02-18 17:39:54,876 - INFO - \u2705 Loaded property: 1052 Key Largo Dr
+2025-02-18 17:39:54,877 - INFO - \u2705 Loaded property: 1340 Canyon Side Ave
+2025-02-18 17:39:54,878 - INFO - \u2705 Loaded property: 3 Fair Lea Rd
+2025-02-18 17:39:54,878 - INFO - \u2705 Loaded property: 6436 Silver Star Ln
+2025-02-18 17:39:54,880 - INFO - \u2705 Loaded property: 9263 Japan Rose Ave
+2025-02-18 17:39:54,881 - INFO - \u2705 Loaded property: 216 11th St
+2025-02-18 17:39:54,882 - INFO - \u2705 Loaded property: 1208 Gully Rd
+2025-02-18 17:39:54,883 - INFO - \u2705 Loaded property: 533 Acton Rd
+2025-02-18 17:39:54,884 - INFO - \u2705 Loaded property: 1049 Balsa Cir
+2025-02-18 17:39:54,885 - INFO - \u2705 Loaded property: 128 Road
+2025-02-18 17:39:54,885 - INFO - \u2705 Loaded property: 1629 Highway
+2025-02-18 17:39:54,885 - INFO - \u2705 Loaded property: 38418 N 12th St
+2025-02-18 17:39:54,887 - INFO - \u2705 Loaded property: 344 Miami St
+2025-02-18 17:39:54,887 - INFO - \u2705 Loaded property: 5837 Cottle Rd
+2025-02-18 17:39:54,888 - INFO - \u2705 Loaded property: 1500 Mainsail Dr
+2025-02-18 17:39:54,888 - INFO - \u2705 Loaded property: 737 1/2 W 45th St
+2025-02-18 17:39:54,889 - INFO - \u2705 Loaded property: 303 W Division St
+2025-02-18 17:39:54,889 - INFO - \u2705 Loaded property: 1204 E 8th St
+2025-02-18 17:39:54,889 - INFO - \u2705 Loaded property: 3836 Forest Creek Way
+2025-02-18 17:39:54,889 - INFO - \u2705 Loaded property: 1307 N 43rd St
+2025-02-18 17:39:54,890 - INFO - \u2705 Loaded property: 8 Scarlet Oak Ct
+2025-02-18 17:39:54,891 - INFO - \u2705 Loaded property: 1 Leamington Pl
+2025-02-18 17:39:54,891 - INFO - \u2705 Loaded property: 2115 St Michaels Dr
+2025-02-18 17:39:54,892 - INFO - \u2705 Loaded property: 4 Gooseberry Ct
+2025-02-18 17:39:54,893 - INFO - \u2705 Loaded property: 208 Priddy Ln
+2025-02-18 17:39:54,893 - INFO - \u2705 Loaded property: 2988 Temple
+2025-02-18 17:39:54,894 - INFO - \u2705 Loaded property: 801 S Diane Ct
+2025-02-18 17:39:54,895 - INFO - \u2705 Loaded property: 605 Cambridge Ct
+2025-02-18 17:39:54,896 - INFO - \u2705 Loaded property: 7302 127th Pl SE
+2025-02-18 17:39:54,897 - INFO - \u2705 Loaded property: 8421 Sw 142nd St
+2025-02-18 17:39:54,898 - INFO - \u2705 Loaded property: 2112 Birch St
+2025-02-18 17:39:54,898 - INFO - \u2705 Loaded property: 235 W Rio Rdg
+2025-02-18 17:39:54,899 - INFO - \u2705 Loaded property: 32999 Embassy Ave
+2025-02-18 17:39:54,900 - INFO - \u2705 Loaded property: 107 Surfrider St
+2025-02-18 17:39:54,900 - INFO - \u2705 Loaded property: 1085 Frank St
+2025-02-18 17:39:54,901 - INFO - \u2705 Loaded property: 19198 Avon Ave
+2025-02-18 17:39:54,902 - INFO - \u2705 Loaded property: 2675 Venice Dr
+2025-02-18 17:39:54,903 - INFO - \u2705 Loaded property: 424 Waupelani Dr
+2025-02-18 17:39:54,903 - INFO - \u2705 Loaded property: 5786 S Archer Ave
+2025-02-18 17:39:54,903 - INFO - \u2705 Loaded property: PO Box 1354
+2025-02-18 17:39:54,904 - INFO - \u2705 Loaded property: 4702 Pennoak Ln
+2025-02-18 17:39:54,905 - INFO - \u2705 Loaded property: 4 Pine Ct
+2025-02-18 17:39:54,906 - INFO - \u2705 Loaded property: 570 Eagles Crossing Pl
+2025-02-18 17:39:54,906 - INFO - \u2705 Loaded property: 10 W Main St
+2025-02-18 17:39:54,906 - INFO - \u2705 Loaded property: 3309 Sw 318th Pl
+2025-02-18 17:39:54,907 - INFO - \u2705 Loaded property: 1185 N Village Dr
+2025-02-18 17:39:54,907 - INFO - \u2705 Loaded property: 110 Stump Dr
+2025-02-18 17:39:54,908 - INFO - \u2705 Loaded property: 101A E Oxford Ave
+2025-02-18 17:39:54,908 - INFO - \u2705 Loaded property: 9358 Spanish Moss Way
+2025-02-18 17:39:54,909 - INFO - \u2705 Loaded property: 3 Idlewild Mnr
+2025-02-18 17:39:54,910 - INFO - \u2705 Loaded property: 1458 King St
+2025-02-18 17:39:54,910 - INFO - \u2705 Loaded property: 94-846A Lelepua St
+2025-02-18 17:39:54,911 - INFO - \u2705 Loaded property: 40 Dexter St
+2025-02-18 17:39:54,911 - INFO - \u2705 Loaded property: 9124 17th Ave S
+2025-02-18 17:39:54,912 - INFO - \u2705 Loaded property: 4445 Saint Georges Ct
+2025-02-18 17:39:54,913 - INFO - \u2705 Loaded property: 6406 Euston Dr
+2025-02-18 17:39:54,913 - INFO - \u2705 Loaded property: 35508 Irvin Way
+2025-02-18 17:39:54,914 - INFO - \u2705 Loaded property: 2900 Dilido Rd
+2025-02-18 17:39:54,915 - INFO - \u2705 Loaded property: 137 Fair St
+2025-02-18 17:39:54,916 - INFO - \u2705 Loaded property: 3451 Citation Dr
+2025-02-18 17:39:54,917 - INFO - \u2705 Loaded property: 425 E Orange St
+2025-02-18 17:39:54,918 - INFO - \u2705 Loaded property: 2621 Centinela Ave
+2025-02-18 17:39:54,919 - INFO - \u2705 Loaded property: 2211 Stephen Long Dr NE
+2025-02-18 17:39:54,921 - INFO - \u2705 Loaded property: 12829 Lantana Ridge Ct
+2025-02-18 17:39:54,921 - INFO - \u2705 Loaded property: 1100 Bellevista Ct
+2025-02-18 17:39:54,922 - INFO - \u2705 Loaded property: PO Box 50551
+2025-02-18 17:39:54,923 - INFO - \u2705 Loaded property: 12335 W Village Dr
+2025-02-18 17:39:54,924 - INFO - \u2705 Loaded property: 1919 Ygnacio Valley Rd
+2025-02-18 17:39:54,925 - INFO - \u2705 Loaded property: 2608 Silent Springs Ln
+2025-02-18 17:39:54,925 - INFO - \u2705 Loaded property: PO Box 85177
+2025-02-18 17:39:54,925 - INFO - \u2705 Loaded property: 6107 E Masters Dr
+2025-02-18 17:39:54,926 - INFO - \u2705 Loaded property: 211 White Squirrel Dr
+2025-02-18 17:39:54,926 - INFO - \u2705 Loaded property: 26930 S Harlem Ave
+2025-02-18 17:39:54,927 - INFO - \u2705 Loaded property: 4660 Norma Dr
+2025-02-18 17:39:54,928 - INFO - \u2705 Loaded property: 101 Del Rio Blvd
+2025-02-18 17:39:54,929 - INFO - \u2705 Loaded property: 3230 Highland Woods Cir
+2025-02-18 17:39:54,930 - INFO - \u2705 Loaded property: 569 Wren Ln
+2025-02-18 17:39:54,930 - INFO - \u2705 Loaded property: 7525 Fontana St
+2025-02-18 17:39:54,932 - INFO - \u2705 Loaded property: 16805 Meadowvale Ave
+2025-02-18 17:39:54,933 - INFO - \u2705 Loaded property: 2802 Royalty Dr
+2025-02-18 17:39:54,933 - INFO - \u2705 Loaded property: 5348 Dierks Dr
+2025-02-18 17:39:54,933 - INFO - \u2705 Loaded property: 9919 S Calhoun Ave
+2025-02-18 17:39:54,934 - INFO - \u2705 Loaded property: 1120 Brittany Pl
+2025-02-18 17:39:54,935 - INFO - \u2705 Loaded property: 20155 Keswick St
+2025-02-18 17:39:54,936 - INFO - \u2705 Loaded property: 2484 Centennial Ln
+2025-02-18 17:39:54,938 - INFO - \u2705 Loaded property: 17809 Train Station Dr
+2025-02-18 17:39:54,939 - INFO - \u2705 Loaded property: 6312 Sierra St
+2025-02-18 17:39:54,940 - INFO - \u2705 Loaded property: 1477 Levant Ln
+2025-02-18 17:39:54,940 - INFO - \u2705 Loaded property: 3000 7th St NE
+2025-02-18 17:39:54,941 - INFO - \u2705 Loaded property: 1897 The Oaks Blvd
+2025-02-18 17:39:54,942 - INFO - \u2705 Loaded property: 1102 Homestead Rd
+2025-02-18 17:39:54,943 - INFO - \u2705 Loaded property: 2008 Lakeview Ave
+2025-02-18 17:39:54,944 - INFO - \u2705 Loaded property: 101 Paris St
+2025-02-18 17:39:54,944 - INFO - \u2705 Loaded property: 94-1017 Halekapio St
+2025-02-18 17:39:54,945 - INFO - \u2705 Loaded property: 1035 Seaside Dr
+2025-02-18 17:39:54,945 - INFO - \u2705 Loaded property: 40 E Pineridge Ct
+2025-02-18 17:39:54,947 - INFO - \u2705 Loaded property: 8 Hampshire Ave
+2025-02-18 17:39:54,947 - INFO - \u2705 Loaded property: 120 E Cortez Dr
+2025-02-18 17:39:54,948 - INFO - \u2705 Loaded property: 1321 Old Hwy
+2025-02-18 17:39:54,950 - INFO - \u2705 Loaded property: 16211 S 18th Pl
+2025-02-18 17:39:54,950 - INFO - \u2705 Loaded property: 6404 Wolf Run Hunt Ct
+2025-02-18 17:39:54,951 - INFO - \u2705 Loaded property: 5510 Juniper Dr
+2025-02-18 17:39:54,952 - INFO - \u2705 Loaded property: 6824 Bogey Dr
+2025-02-18 17:39:54,953 - INFO - \u2705 Loaded property: 2000 Sun Valley Dr
+2025-02-18 17:39:54,953 - INFO - \u2705 Loaded property: 1505 Northpark Blvd
+2025-02-18 17:39:54,954 - INFO - \u2705 Loaded property: 11140 76th Dr
+2025-02-18 17:39:54,954 - INFO - \u2705 Loaded property: 107 Man Owar Blvd
+2025-02-18 17:39:54,955 - INFO - \u2705 Loaded property: 7240 Sanza Pl
+2025-02-18 17:39:54,956 - INFO - \u2705 Loaded property: 6364 S Madison St
+2025-02-18 17:39:54,956 - INFO - \u2705 Loaded property: 5404 Alabaster Ct
+2025-02-18 17:39:54,957 - INFO - \u2705 Loaded property: 3445 Garrison St
+2025-02-18 17:39:54,958 - INFO - \u2705 Loaded property: 4914 4th St NW
+2025-02-18 17:39:54,958 - INFO - \u2705 Loaded property: 114 Creekside Ln
+2025-02-18 17:39:54,958 - INFO - \u2705 Loaded property: 6135 S Talman Ave
+2025-02-18 17:39:54,959 - INFO - \u2705 Loaded property: 951 E Teague Ave
+2025-02-18 17:39:54,960 - INFO - \u2705 Loaded property: 5220 Calle Nuestra NW
+2025-02-18 17:39:54,960 - INFO - \u2705 Loaded property: 1017 Barton St
+2025-02-18 17:39:54,961 - INFO - \u2705 Loaded property: 13500 Paddington Cir
+2025-02-18 17:39:54,962 - INFO - \u2705 Loaded property: 3424 Norris Ave
+2025-02-18 17:39:54,962 - INFO - \u2705 Loaded property: 112 Parish Dr
+2025-02-18 17:39:54,964 - INFO - \u2705 Loaded property: 811 Cavaison Ave
+2025-02-18 17:39:54,965 - INFO - \u2705 Loaded property: 4112 Scoville Ave
+2025-02-18 17:39:54,966 - INFO - \u2705 Loaded property: 1912 Lombard St
+2025-02-18 17:39:54,967 - INFO - \u2705 Loaded property: 7013 W Missouri Ave
+2025-02-18 17:39:54,967 - INFO - \u2705 Loaded property: PO Box 2004
+2025-02-18 17:39:54,968 - INFO - \u2705 Loaded property: 821 Truman St
+2025-02-18 17:39:54,968 - INFO - \u2705 Loaded property: 334 Mesquite Ln
+2025-02-18 17:39:54,969 - INFO - \u2705 Loaded property: 5707 Fulton Cir
+2025-02-18 17:39:54,970 - INFO - \u2705 Loaded property: 2532 E Laurel St
+2025-02-18 17:39:54,971 - INFO - \u2705 Loaded property: 9128 Argentine Pass Trl
+2025-02-18 17:39:54,971 - INFO - \u2705 Loaded property: 2489 Larose Ave
+2025-02-18 17:39:54,972 - INFO - \u2705 Loaded property: 7723 Duncannon Ln
+2025-02-18 17:39:54,973 - INFO - \u2705 Loaded property: 2013 W Race Ave
+2025-02-18 17:39:54,974 - INFO - \u2705 Loaded property: 1151 S Ramona St
+2025-02-18 17:39:54,974 - INFO - \u2705 Loaded property: 461 W Santa Ana Ave
+2025-02-18 17:39:54,975 - INFO - \u2705 Loaded property: 3560 E Douglas Ave
+2025-02-18 17:39:54,975 - INFO - \u2705 Loaded property: 54 W 119th St
+2025-02-18 17:39:54,976 - INFO - \u2705 Loaded property: 1211 Cornelia St
+2025-02-18 17:39:54,977 - INFO - \u2705 Loaded property: 1445 Ottawa Ct
+2025-02-18 17:39:54,977 - INFO - \u2705 Loaded property: 2405 S Ardson Pl
+2025-02-18 17:39:54,978 - INFO - \u2705 Loaded property: 11147 Palomino Blf
+2025-02-18 17:39:54,979 - INFO - \u2705 Loaded property: 193 Carleton St
+2025-02-18 17:39:54,979 - INFO - \u2705 Loaded property: 115 E 86th St
+2025-02-18 17:39:54,980 - INFO - \u2705 Loaded property: 45 Broadway
+2025-02-18 17:39:54,981 - INFO - \u2705 Loaded property: 2166 Santa Cruz Ave
+2025-02-18 17:39:54,982 - INFO - \u2705 Loaded property: 6812 N 32nd Dr
+2025-02-18 17:39:54,983 - INFO - \u2705 Loaded property: 17622 N Bobwhite Dr
+2025-02-18 17:39:54,984 - INFO - \u2705 Loaded property: 255 Bimini Way
+2025-02-18 17:39:54,984 - INFO - \u2705 Loaded property: 811 E 43rd St
+2025-02-18 17:39:54,986 - INFO - \u2705 Loaded property: 3233 204th St
+2025-02-18 17:39:54,987 - INFO - \u2705 Loaded property: 4035 Chetham Way
+2025-02-18 17:39:54,988 - INFO - \u2705 Loaded property: 7345 School House Ln
+2025-02-18 17:39:54,988 - INFO - \u2705 Loaded property: 6 Appleby Rd
+2025-02-18 17:39:54,988 - INFO - \u2705 Loaded property: 11478 Mendenhall Ct
+2025-02-18 17:39:54,989 - INFO - \u2705 Loaded property: 3270 Crestview Dr
+2025-02-18 17:39:54,989 - INFO - \u2705 Loaded property: 400 N Main Street 400 N Main St
+2025-02-18 17:39:54,989 - INFO - \u2705 Loaded property: PO Box 1030
+2025-02-18 17:39:54,990 - INFO - \u2705 Loaded property: 604 Broadway St
+2025-02-18 17:39:54,990 - INFO - \u2705 Loaded property: 2791 Baker Lake Rd
+2025-02-18 17:39:54,991 - INFO - \u2705 Loaded property: 2001 Wheeler St N
+2025-02-18 17:39:54,991 - INFO - \u2705 Loaded property: 2545 Rail Spur
+2025-02-18 17:39:54,992 - INFO - \u2705 Loaded property: 90 Pleasant Dr
+2025-02-18 17:39:54,993 - INFO - \u2705 Loaded property: 23 Brookwood Dr
+2025-02-18 17:39:54,993 - INFO - \u2705 Loaded property: 4257 Pamela Dr
+2025-02-18 17:39:54,994 - INFO - \u2705 Loaded property: 1970 E Julian St
+2025-02-18 17:39:54,995 - INFO - \u2705 Loaded property: 1250 E 82nd St
+2025-02-18 17:39:54,996 - INFO - \u2705 Loaded property: 21 Parkview Ct
+2025-02-18 17:39:54,998 - INFO - \u2705 Loaded property: 506 Greystoke Ln
+2025-02-18 17:39:54,998 - INFO - \u2705 Loaded property: 120 Palo Verde Circle Rock Vw
+2025-02-18 17:39:54,999 - INFO - \u2705 Loaded property: 1141 Castlerock Rd
+2025-02-18 17:39:55,000 - INFO - \u2705 Loaded property: 7275 W Soft Wind Dr
+2025-02-18 17:39:55,001 - INFO - \u2705 Loaded property: 710 Throop St
+2025-02-18 17:39:55,001 - INFO - \u2705 Loaded property: 6337 Village Center Dr
+2025-02-18 17:39:55,002 - INFO - \u2705 Loaded property: 20 Edgewood Ter
+2025-02-18 17:39:55,002 - INFO - \u2705 Loaded property: 3111 N Caden Ct
+2025-02-18 17:39:55,003 - INFO - \u2705 Loaded property: 5734 S Huron St
+2025-02-18 17:39:55,003 - INFO - \u2705 Loaded property: 333 E Main St
+2025-02-18 17:39:55,005 - INFO - \u2705 Loaded property: 5809 Lehman Way
+2025-02-18 17:39:55,005 - INFO - \u2705 Loaded property: 318 Towler St
+2025-02-18 17:39:55,006 - INFO - \u2705 Loaded property: 1981 Santa Rosa Ct
+2025-02-18 17:39:55,006 - INFO - \u2705 Loaded property: 20113 Stamat Dr
+2025-02-18 17:39:55,007 - INFO - \u2705 Loaded property: 12819 127th Ave
+2025-02-18 17:39:55,008 - INFO - \u2705 Loaded property: 1265 Cunningham Dr
+2025-02-18 17:39:55,009 - INFO - \u2705 Loaded property: 150 Lafayette St
+2025-02-18 17:39:55,010 - INFO - \u2705 Loaded property: 947 E Shadowlawn Ave
+2025-02-18 17:39:55,010 - INFO - \u2705 Loaded property: 102 Highland Ave
+2025-02-18 17:39:55,011 - INFO - \u2705 Loaded property: 33 Palm Ln
+2025-02-18 17:39:55,012 - INFO - \u2705 Loaded property: 5201 Ocean Beach Blvd
+2025-02-18 17:39:55,015 - INFO - \u2705 Loaded property: 2518 W Walnut St
+2025-02-18 17:39:55,015 - INFO - \u2705 Loaded property: 401A Airport Way
+2025-02-18 17:39:55,017 - INFO - \u2705 Loaded property: 12756 Wyoming St
+2025-02-18 17:39:55,017 - INFO - \u2705 Loaded property: 1726 Fairway Dr
+2025-02-18 17:39:55,018 - INFO - \u2705 Loaded property: 2607 Spartan Rd
+2025-02-18 17:39:55,019 - INFO - \u2705 Loaded property: 2 Pointe South Trce
+2025-02-18 17:39:55,020 - INFO - \u2705 Loaded property: 7308 Ditmars Blvd
+2025-02-18 17:39:55,021 - INFO - \u2705 Loaded property: 2406 Stone Rd
+2025-02-18 17:39:55,021 - INFO - \u2705 Loaded property: 1500 Capitol Dr
+2025-02-18 17:39:55,022 - INFO - \u2705 Loaded property: 1808 Bent Oak Ct
+2025-02-18 17:39:55,023 - INFO - \u2705 Loaded property: 3326 Navasota Cir
+2025-02-18 17:39:55,023 - INFO - \u2705 Loaded property: 17 Howard Pl
+2025-02-18 17:39:55,024 - INFO - \u2705 Loaded property: 17 Kready Ave
+2025-02-18 17:39:55,025 - INFO - \u2705 Loaded property: 3690 Sunrise Ln
+2025-02-18 17:39:55,026 - INFO - \u2705 Loaded property: 9944 W Trestlewood St
+2025-02-18 17:39:55,027 - INFO - \u2705 Loaded property: 3423 Ne Madison Ave
+2025-02-18 17:39:55,027 - INFO - \u2705 Loaded property: 151 E Mclane Dr
+2025-02-18 17:39:55,027 - INFO - \u2705 Loaded property: 2042 Meyer Pl
+2025-02-18 17:39:55,027 - INFO - \u2705 Loaded property: 2508 Chace Lake Pkwy
+2025-02-18 17:39:55,028 - INFO - \u2705 Loaded property: 35025 Armour Way
+2025-02-18 17:39:55,029 - INFO - \u2705 Loaded property: 192 Hill St
+2025-02-18 17:39:55,030 - INFO - \u2705 Loaded property: 10200 Flat Creek Trl
+2025-02-18 17:39:55,032 - INFO - \u2705 Loaded property: 514 Jackson Ave
+2025-02-18 17:39:55,032 - INFO - \u2705 Loaded property: 849 Heritage Vlg
+2025-02-18 17:39:55,033 - INFO - \u2705 Loaded property: 14904 Grand Summit Blvd
+2025-02-18 17:39:55,033 - INFO - \u2705 Loaded property: 17242 Sw Kite Ln
+2025-02-18 17:39:55,034 - INFO - \u2705 Loaded property: PO Box E
+2025-02-18 17:39:55,035 - INFO - \u2705 Loaded property: 7153 Millbury Ct
+2025-02-18 17:39:55,035 - INFO - \u2705 Loaded property: 3720 Rafferty Cir
+2025-02-18 17:39:55,036 - INFO - \u2705 Loaded property: 10401 Butte Dr
+2025-02-18 17:39:55,037 - INFO - \u2705 Loaded property: 1812 Nautilus Dr
+2025-02-18 17:39:55,037 - INFO - \u2705 Loaded property: 7901 Canterbury Ter
+2025-02-18 17:39:55,038 - INFO - \u2705 Loaded property: 40 Taggart St
+2025-02-18 17:39:55,039 - INFO - \u2705 Loaded property: 1149 King Ave
+2025-02-18 17:39:55,040 - INFO - \u2705 Loaded property: 10627 Clubhouse Dr
+2025-02-18 17:39:55,040 - INFO - \u2705 Loaded property: Harmony Dr NW
+2025-02-18 17:39:55,040 - INFO - \u2705 Loaded property: 4226 Irish Hills Dr
+2025-02-18 17:39:55,041 - INFO - \u2705 Loaded property: 500 Woodcrest Ave
+2025-02-18 17:39:55,041 - INFO - \u2705 Loaded property: 1819 Wren St
+2025-02-18 17:39:55,042 - INFO - \u2705 Loaded property: 240 Markwood Dr
+2025-02-18 17:39:55,043 - INFO - \u2705 Loaded property: 6318 W 77th St
+2025-02-18 17:39:55,044 - INFO - \u2705 Loaded property: 607 Stone Meadow Ct
+2025-02-18 17:39:55,044 - INFO - \u2705 Loaded property: 959 Arbor St
+2025-02-18 17:39:55,045 - INFO - \u2705 Loaded property: 1297 S Greer St
+2025-02-18 17:39:55,048 - INFO - \u2705 Loaded property: 42203 Jasper Ln
+2025-02-18 17:39:55,049 - INFO - \u2705 Loaded property: 706 Whitmore Ave
+2025-02-18 17:39:55,049 - INFO - \u2705 Loaded property: 357 Main St
+2025-02-18 17:39:55,050 - INFO - \u2705 Loaded property: 1844 Kristen Mill Ct
+2025-02-18 17:39:55,051 - INFO - \u2705 Loaded property: 704 Ne 4th Ave
+2025-02-18 17:39:55,052 - INFO - \u2705 Loaded property: 20028 Palm Island Dr
+2025-02-18 17:39:55,052 - INFO - \u2705 Loaded property: 514 N Sinclair Ave
+2025-02-18 17:39:55,053 - INFO - \u2705 Loaded property: 3304 Stonehaven Ct
+2025-02-18 17:39:55,054 - INFO - \u2705 Loaded property: 4021 Mcginnis Ferry Rd
+2025-02-18 17:39:55,054 - INFO - \u2705 Loaded property: 437 Nw 2nd Ave
+2025-02-18 17:39:55,055 - INFO - \u2705 Loaded property: 7544 Woodstream Ct
+2025-02-18 17:39:55,055 - INFO - \u2705 Loaded property: 15380 6700 Rd
+2025-02-18 17:39:55,056 - INFO - \u2705 Loaded property: 7443 Citrus Blossom Dr
+2025-02-18 17:39:55,057 - INFO - \u2705 Loaded property: 1 Sugar Loaf Ct
+2025-02-18 17:39:55,058 - INFO - \u2705 Loaded property: 13603 San Martin Ln
+2025-02-18 17:39:55,058 - INFO - \u2705 Loaded property: 105 Mid Hill Rd
+2025-02-18 17:39:55,060 - INFO - \u2705 Loaded property: 1438 Elkwood Dr
+2025-02-18 17:39:55,060 - INFO - \u2705 Loaded property: 8022 Miami St
+2025-02-18 17:39:55,061 - INFO - \u2705 Loaded property: 10537 State Hwy
+2025-02-18 17:39:55,061 - INFO - \u2705 Loaded property: 111 N 2nd St
+2025-02-18 17:39:55,062 - INFO - \u2705 Loaded property: 1115 Mcgowan Blvd
+2025-02-18 17:39:55,064 - INFO - \u2705 Loaded property: 1010 Briarwood Dr
+2025-02-18 17:39:55,065 - INFO - \u2705 Loaded property: 11248 Fiesole St
+2025-02-18 17:39:55,066 - INFO - \u2705 Loaded property: 5657 New Independence Pkwy
+2025-02-18 17:39:55,066 - INFO - \u2705 Loaded property: 1908 Main St
+2025-02-18 17:39:55,067 - INFO - \u2705 Loaded property: 1 Claudette Cir
+2025-02-18 17:39:55,067 - INFO - \u2705 Loaded property: 1109 Plymouth Ave
+2025-02-18 17:39:55,067 - INFO - \u2705 Loaded property: 20455 Lorain Rd
+2025-02-18 17:39:55,068 - INFO - \u2705 Loaded property: 2004 Haviland Dr
+2025-02-18 17:39:55,069 - INFO - \u2705 Loaded property: 1831 Center St
+2025-02-18 17:39:55,070 - INFO - \u2705 Loaded property: 1709 Chester Dr
+2025-02-18 17:39:55,070 - INFO - \u2705 Loaded property: 890 Beaver Grade Rd
+2025-02-18 17:39:55,071 - INFO - \u2705 Loaded property: 12180 Locust St
+2025-02-18 17:39:55,071 - INFO - \u2705 Loaded property: 1449 Il Rte
+2025-02-18 17:39:55,072 - INFO - \u2705 Loaded property: 2219 Dover Pl
+2025-02-18 17:39:55,073 - INFO - \u2705 Loaded property: 2910 Erin Dr
+2025-02-18 17:39:55,073 - INFO - \u2705 Loaded property: 605 Joye St
+2025-02-18 17:39:55,074 - INFO - \u2705 Loaded property: 11270 Cymbal Ct
+2025-02-18 17:39:55,074 - INFO - \u2705 Loaded property: Rigby Loop
+2025-02-18 17:39:55,075 - INFO - \u2705 Loaded property: 1168 Miss Kimberlys Ln
+2025-02-18 17:39:55,076 - INFO - \u2705 Loaded property: 1020 Bella Vista Blvd
+2025-02-18 17:39:55,076 - INFO - \u2705 Loaded property: 1316 Thomas Rd
+2025-02-18 17:39:55,077 - INFO - \u2705 Loaded property: 4100 Hutchinson River Pkwy E
+2025-02-18 17:39:55,077 - INFO - \u2705 Loaded property: 1299 Antelope Creek Dr
+2025-02-18 17:39:55,078 - INFO - \u2705 Loaded property: 7316 27th Ave NW
+2025-02-18 17:39:55,079 - INFO - \u2705 Loaded property: 1302 S Montesano St
+2025-02-18 17:39:55,079 - INFO - \u2705 Loaded property: 21140 Cass Ave
+2025-02-18 17:39:55,081 - INFO - \u2705 Loaded property: 294 Hermitage St
+2025-02-18 17:39:55,082 - INFO - \u2705 Loaded property: 686 Greenbriar Cir
+2025-02-18 17:39:55,082 - INFO - \u2705 Loaded property: PO Box 4801
+2025-02-18 17:39:55,083 - INFO - \u2705 Loaded property: 1771 Grant Ave
+2025-02-18 17:39:55,083 - INFO - \u2705 Loaded property: 2191 Hill Way
+2025-02-18 17:39:55,084 - INFO - \u2705 Loaded property: 1501 E Fort Ave Apt A
+2025-02-18 17:39:55,084 - INFO - \u2705 Loaded property: 5078 Hoss Cir
+2025-02-18 17:39:55,084 - INFO - \u2705 Loaded property: W55N234 Woodmere Ct
+2025-02-18 17:39:55,085 - INFO - \u2705 Loaded property: 6719 Quantum Dr
+2025-02-18 17:39:55,086 - INFO - \u2705 Loaded property: 2733 E Majestic Eagle
+2025-02-18 17:39:55,086 - INFO - \u2705 Loaded property: 22152 County Rd
+2025-02-18 17:39:55,087 - INFO - \u2705 Loaded property: 6563 Maurice Ave
+2025-02-18 17:39:55,088 - INFO - \u2705 Loaded property: 22435 W Curtice E And W Rd
+2025-02-18 17:39:55,088 - INFO - \u2705 Loaded property: 3811 Canterbury Rd
+2025-02-18 17:39:55,089 - INFO - \u2705 Loaded property: 26530 Reed Ct
+2025-02-18 17:39:55,089 - INFO - \u2705 Loaded property: 2375 Bancroft St
+2025-02-18 17:39:55,090 - INFO - \u2705 Loaded property: 7396 Regency Square Ct
+2025-02-18 17:39:55,091 - INFO - \u2705 Loaded property: 5370 Goodman Rd
+2025-02-18 17:39:55,091 - INFO - \u2705 Loaded property: 204 Sumpter St
+2025-02-18 17:39:55,091 - INFO - \u2705 Loaded property: 354 Rathburn Rd
+2025-02-18 17:39:55,092 - INFO - \u2705 Loaded property: 8335 Fairmount Dr
+2025-02-18 17:39:55,092 - INFO - \u2705 Loaded property: 715 Daniel Webster Hwy
+2025-02-18 17:39:55,094 - INFO - \u2705 Loaded property: 221 W Woodland Ave
+2025-02-18 17:39:55,094 - INFO - \u2705 Loaded property: 25509 Oak Medley Ter
+2025-02-18 17:39:55,095 - INFO - \u2705 Loaded property: 621 N 9th Plz
+2025-02-18 17:39:55,097 - INFO - \u2705 Loaded property: 8 Senter Cir
+2025-02-18 17:39:55,099 - INFO - \u2705 Loaded property: 3415 Juneway
+2025-02-18 17:39:55,100 - INFO - \u2705 Loaded property: 10413 Haverford Rd
+2025-02-18 17:39:55,100 - INFO - \u2705 Loaded property: 560 Stratfield Way
+2025-02-18 17:39:55,101 - INFO - \u2705 Loaded property: 9340 Elm St
+2025-02-18 17:39:55,102 - INFO - \u2705 Loaded property: 514 Park Ave
+2025-02-18 17:39:55,103 - INFO - \u2705 Loaded property: 2604 Station St
+2025-02-18 17:39:55,104 - INFO - \u2705 Loaded property: 41418 W Somers Dr
+2025-02-18 17:39:55,105 - INFO - \u2705 Loaded property: 110 Wyckcliffe Pl
+2025-02-18 17:39:55,105 - INFO - \u2705 Loaded property: 575 S Hewitt St
+2025-02-18 17:39:55,106 - INFO - \u2705 Loaded property: 1922 Valhalla Dr
+2025-02-18 17:39:55,106 - INFO - \u2705 Loaded property: 5860 N Kenmore Ave
+2025-02-18 17:39:55,107 - INFO - \u2705 Loaded property: 111 Verdugo Dr
+2025-02-18 17:39:55,107 - INFO - \u2705 Loaded property: 2250 Stanley Rd
+2025-02-18 17:39:55,108 - INFO - \u2705 Loaded property: 12341 Iveson Dr
+2025-02-18 17:39:55,109 - INFO - \u2705 Loaded property: 24 Scottie Ln
+2025-02-18 17:39:55,110 - INFO - \u2705 Loaded property: 180 N Delaware Ave
+2025-02-18 17:39:55,110 - INFO - \u2705 Loaded property: 3070 John F Kennedy Blvd
+2025-02-18 17:39:55,112 - INFO - \u2705 Loaded property: 4597 Lasley Dr
+2025-02-18 17:39:55,112 - INFO - \u2705 Loaded property: 1558 Balcones Fault
+2025-02-18 17:39:55,112 - INFO - \u2705 Loaded property: 2109 119th St
+2025-02-18 17:39:55,114 - INFO - \u2705 Loaded property: 4875 Sw 152nd Ave
+2025-02-18 17:39:55,115 - INFO - \u2705 Loaded property: 1120 Augustus Dr
+2025-02-18 17:39:55,117 - INFO - \u2705 Loaded property: 1428 Fulton St
+2025-02-18 17:39:55,118 - INFO - \u2705 Loaded property: 5521 Chimney Swift Dr
+2025-02-18 17:39:55,118 - INFO - \u2705 Loaded property: 222 Greenfield Ridge Dr
+2025-02-18 17:39:55,119 - INFO - \u2705 Loaded property: 1509 Route
+2025-02-18 17:39:55,120 - INFO - \u2705 Loaded property: 7032 Newton Pl
+2025-02-18 17:39:55,120 - INFO - \u2705 Loaded property: 1102 Dove Dr
+2025-02-18 17:39:55,121 - INFO - \u2705 Loaded property: 2912 Zara St
+2025-02-18 17:39:55,122 - INFO - \u2705 Loaded property: 1772 Kenney Ln
+2025-02-18 17:39:55,122 - INFO - \u2705 Loaded property: 5524 Richmond Ave
+2025-02-18 17:39:55,122 - INFO - \u2705 Loaded property: 934 W Race St
+2025-02-18 17:39:55,123 - INFO - \u2705 Loaded property: 3703 Tilden St
+2025-02-18 17:39:55,123 - INFO - \u2705 Loaded property: 4313 Broadway
+2025-02-18 17:39:55,124 - INFO - \u2705 Loaded property: 2708 Salem Church Rd
+2025-02-18 17:39:55,124 - INFO - \u2705 Loaded property: 3803 S Bascom Ave
+2025-02-18 17:39:55,125 - INFO - \u2705 Loaded property: 3122 Bailey Ave
+2025-02-18 17:39:55,125 - INFO - \u2705 Loaded property: 2180 33rd Rd
+2025-02-18 17:39:55,126 - INFO - \u2705 Loaded property: 3632 Cowboy Ln
+2025-02-18 17:39:55,126 - INFO - \u2705 Loaded property: 785 Oregon Ave SE
+2025-02-18 17:39:55,127 - INFO - \u2705 Loaded property: 4301 Colorado Ave
+2025-02-18 17:39:55,128 - INFO - \u2705 Loaded property: 4612 23rd Rd N
+2025-02-18 17:39:55,130 - INFO - \u2705 Loaded property: 2796 Playa Dr
+2025-02-18 17:39:55,131 - INFO - \u2705 Loaded property: 10844 Venice Cir
+2025-02-18 17:39:55,132 - INFO - \u2705 Loaded property: 929 Harbor Pines Dr
+2025-02-18 17:39:55,132 - INFO - \u2705 Loaded property: 348 Orchard Pl
+2025-02-18 17:39:55,132 - INFO - \u2705 Loaded property: 270 E Hunt Hwy
+2025-02-18 17:39:55,133 - INFO - \u2705 Loaded property: 216 W Lakes Blvd
+2025-02-18 17:39:55,133 - INFO - \u2705 Loaded property: Country Pl
+2025-02-18 17:39:55,133 - INFO - \u2705 Loaded property: 1200 E 53rd St
+2025-02-18 17:39:55,134 - INFO - \u2705 Loaded property: 1325 Old Jayell Rd
+2025-02-18 17:39:55,134 - INFO - \u2705 Loaded property: 3 Hampden Ct
+2025-02-18 17:39:55,136 - INFO - \u2705 Loaded property: 409 Gabe Ct
+2025-02-18 17:39:55,136 - INFO - \u2705 Loaded property: 127 Upland Ave
+2025-02-18 17:39:55,137 - INFO - \u2705 Loaded property: 1569 Republic Ave
+2025-02-18 17:39:55,138 - INFO - \u2705 Loaded property: 1120 Melrose Ave
+2025-02-18 17:39:55,139 - INFO - \u2705 Loaded property: 101 Sterling Oaks Ct
+2025-02-18 17:39:55,140 - INFO - \u2705 Loaded property: 11131 19th St SE
+2025-02-18 17:39:55,141 - INFO - \u2705 Loaded property: 951 Arlington Dr
+2025-02-18 17:39:55,142 - INFO - \u2705 Loaded property: 1702 Oak Pond St
+2025-02-18 17:39:55,143 - INFO - \u2705 Loaded property: 1048 Prospect St
+2025-02-18 17:39:55,143 - INFO - \u2705 Loaded property: 8057 S Eberhart Ave
+2025-02-18 17:39:55,144 - INFO - \u2705 Loaded property: 2210 Weir Dr
+2025-02-18 17:39:55,145 - INFO - \u2705 Loaded property: 561 4th Ave
+2025-02-18 17:39:55,146 - INFO - \u2705 Loaded property: 93 Melrose Ave
+2025-02-18 17:39:55,148 - INFO - \u2705 Loaded property: 5948 N Norwood St
+2025-02-18 17:39:55,149 - INFO - \u2705 Loaded property: 733 S Leeds St
+2025-02-18 17:39:55,150 - INFO - \u2705 Loaded property: 202 Texas St
+2025-02-18 17:39:55,151 - INFO - \u2705 Loaded property: 4608 Capay Dr
+2025-02-18 17:39:55,151 - INFO - \u2705 Loaded property: 919 Union St
+2025-02-18 17:39:55,152 - INFO - \u2705 Loaded property: 3477 Kirkwood Rd
+2025-02-18 17:39:55,152 - INFO - \u2705 Loaded property: 36313 S Wilderness Ln
+2025-02-18 17:39:55,152 - INFO - \u2705 Loaded property: 132 E Burns St
+2025-02-18 17:39:55,153 - INFO - \u2705 Loaded property: 420 N 39th St
+2025-02-18 17:39:55,153 - INFO - \u2705 Loaded property: 11701 Hickman Mills Dr
+2025-02-18 17:39:55,154 - INFO - \u2705 Loaded property: 3113 Ralph Ave
+2025-02-18 17:39:55,155 - INFO - \u2705 Loaded property: 1615 Belmont St
+2025-02-18 17:39:55,155 - INFO - \u2705 Loaded property: 4847 Monac Dr
+2025-02-18 17:39:55,156 - INFO - \u2705 Loaded property: 233 N Main St
+2025-02-18 17:39:55,157 - INFO - \u2705 Loaded property: 7092 Alice St
+2025-02-18 17:39:55,157 - INFO - \u2705 Loaded property: 116 Everly Cir
+2025-02-18 17:39:55,158 - INFO - \u2705 Loaded property: 446 3rd St
+2025-02-18 17:39:55,159 - INFO - \u2705 Loaded property: 9511 Madera Rd
+2025-02-18 17:39:55,159 - INFO - \u2705 Loaded property: 29272 Harley Ct
+2025-02-18 17:39:55,160 - INFO - \u2705 Loaded property: 10605 Settlers Trl
+2025-02-18 17:39:55,161 - INFO - \u2705 Loaded property: 4151 Vernoy Hills Rd
+2025-02-18 17:39:55,162 - INFO - \u2705 Loaded property: 831 W Rock Ridge Dr
+2025-02-18 17:39:55,162 - INFO - \u2705 Loaded property: 109 E Albert St
+2025-02-18 17:39:55,163 - INFO - \u2705 Loaded property: 4173 W Lake Sammamish Pkwy SE
+2025-02-18 17:39:55,164 - INFO - \u2705 Loaded property: 416 W Logan St
+2025-02-18 17:39:55,165 - INFO - \u2705 Loaded property: 1838 Cade Ave
+2025-02-18 17:39:55,166 - INFO - \u2705 Loaded property: 7305 White Oak Way
+2025-02-18 17:39:55,166 - INFO - \u2705 Data Loading Completed!
+2025-02-18 17:39:55,166 - INFO - \u2705 ETL Pipeline Completed Successfully!

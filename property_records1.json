@@ -1,0 +1,27 @@
+[
+    {
+        "bathrooms": 1,
+        "squareFootage": 644,
+        "county": "Suffolk",
+        "propertyType": "Apartment",
+        "addressLine1": "401 Mount Vernon St",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02125",
+        "price": 2601,
+        "listedDate": "2025-02-05T00:00:00.000Z"
+    },
+    {
+        "bathrooms": 1,
+        "bedrooms": 2,
+        "squareFootage": 925,
+        "county": "Suffolk",
+        "propertyType": "Apartment",
+        "addressLine1": "654 Metropolitan Ave",
+        "city": "Hyde Park",
+        "state": "MA",
+        "zipCode": "02136",
+        "price": 2200,
+        "listedDate": "2025-02-05T00:00:00.000Z"
+    }
+]
